@@ -16,12 +16,12 @@ The Time Series analysis of hourly search traffic reveals a consistent trend thr
 ![MercadoLibre Hourly Search](images/hourly_search.png)
 ![MercadoLibre Day of the Week](images/dayofweek.png)
 
-####Stock Volatility
+#### Stock Volatility
 During the specified period, MercadoLibre's stock exhibited heightened volatility compared to its overall historical performance.
 ![MercadoLibre Volatility](images/stock_volatility.png)
 ![MercadoLibre Volatility Zoomed](images/zommed_volatility.png)
 
-####Correlation
+#### Correlation
 Upon conducting a correlation analysis, it is noted that there exists a weak negative correlation between stock volatility and lagged search traffic. Conversely, a weak positive correlation is identified between lagged search traffic and stock price returns. In this case, as lagged search traffic rises, there is a tendency for stock price returns to exhibit a slight positive correlation.
 
 ![Correlation](images/corrolation.png)
