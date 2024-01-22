@@ -38,6 +38,7 @@ In Prophet summary, the peak popularity for search traffic is at midnight (00:00
 #### Prophet Revenue Forecast
 
 Based on the forecast information generated for the 3rd quarter (July-September), the total sales forecast for the finance division is as follows:
+
 Most Likely Case: $21.64 billion USD.
 
 Best Case Scenario: $23.40 billion USD.   
